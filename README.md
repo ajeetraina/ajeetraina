@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [Docker](https://dockerlabs.collabnix.com), [Kubernetes](https://kubelabs.collabnix.com), [DevOps](https://collabnix.netlify.app/docs/devops/) and [Redis](https://redisplanet.collabnix.com) 
 - 📫 Join Collabnix community: Join https://launchpass.com/collabnix
 - 😄 I love blogging: https://www.collabnix.com
-- ⚡ Collabnix Community - [Docker](https://dockerlabs.collabnix.com), [KubeLabs](https://kubelabs.collabnix.com), [Kubetools](https://kubetools.collabnix.com)
+- ⚡ Community contributions  - [Docker](https://dockerlabs.collabnix.com), [KubeLabs](https://kubelabs.collabnix.com), [Kubetools](https://kubetools.collabnix.com)
 - 👯 Watch Videos - [YouTube](https://youtube.com/c/Collabnix)
 
 
