@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 [I’m part of ARM Innovator programme](https://community.arm.com/innovation/b/blog/posts/arm-innovator-spotlight-ajeet-raina)
 - 😄 [I'm a Docker Community Leader](https://www.docker.com/blog/2019-docker-community-awards/)
 - 👯 I run [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 10,500+ members ...
-- 🤔 I work for [Redis Labs](https://redislabs.com/blog/author/ajeet-raina/) and busy building [Redis Developer Hub Site](https://developer.redislabs.com) 
+- 🤔 I work for [Redis ](https://redis.com/blog/author/ajeet-raina/) and busy building [Redis Developer Hub Site](https://developer.redislabs.com) 
 - 💬 Ask me about [Docker](https://dockerlabs.collabnix.com), [Kubernetes](https://kubelabs.collabnix.com), [DevOps](https://collabnix.netlify.app/docs/devops/) and [Redis](https://redisplanet.collabnix.com) 
 - 📫 Join Collabnix community: Join https://launchpass.com/collabnix
 - 😄 I love blogging: https://www.collabnix.com
