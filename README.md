@@ -20,18 +20,20 @@ Here are some ideas to get you started:
 - 🔭 [I’m a Docker Captain](https://www.docker.com/captains/ajeet-singh-raina)
 - 🌱 [I’m part of ARM Innovator programme](https://community.arm.com/innovation/b/blog/posts/arm-innovator-spotlight-ajeet-raina)
 - 😄 [I'm a Docker Community Leader](https://www.docker.com/blog/2019-docker-community-awards/)
-- 👯 I run [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 10,500+ members ...
-- 🤔 I work for [Redis ](https://redis.com/blog/author/ajeet-raina/) and busy building [Redis Developer Hub Site](https://developer.redislabs.com) 
+- 👯 I lead [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 10,500+ members ...
+- 🤔 I work for [Redis Inc ](https://redis.com/blog/author/ajeet-raina/) and busy building [Redis Developer Hub Site](https://developer.redis.com) 
 - 💬 Ask me about [Docker](https://dockerlabs.collabnix.com), [Kubernetes](https://kubelabs.collabnix.com), [DevOps](https://collabnix.netlify.app/docs/devops/) and [Redis](https://redisplanet.collabnix.com) 
-- 📫 Join Collabnix community: Join https://launchpass.com/collabnix
+- 📫 Join my personal Collabnix Slack community of 5600+ DevOps members : Join https://launchpass.com/collabnix
+- ⚡ I am a maintainer of [Docker Contribute Site](https://contribute.docker.com)
 - 😄 I love blogging: https://www.collabnix.com
+- 🌱 Bagged "Tip of Captain's Hat Award" in Dockercon 2019 San Francisco
 - ⚡ Community contributions  - [Docker](https://dockerlabs.collabnix.com), [KubeLabs](https://kubelabs.collabnix.com), [Kubetools](https://kubetools.collabnix.com)
-- 👯 Watch Videos - [YouTube](https://youtube.com/c/Collabnix)
+- 👯 Subscribe to my Videos - [YouTube](https://youtube.com/c/Collabnix)
 
 
 ### Major Contributions/Initiatives
 
-- 💬 [Redis Developer Hub](https://developer.redislabs.com)
+- 💬 [Redis Developer Hub](https://developer.redis.com)
 - 😄 [Docker Contribute Site](httpS://contribute.docker.com)
 - 🌱 [DockerLabs](https://dockerlabs.collabnix.com)
 - 🌱 [KubeLabs](https://kubelabs.collabnix.com)
