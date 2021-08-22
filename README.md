@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 - 👯 I lead [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 10,500+ members ...
 - 🤔 I work for [Redis Inc ](https://redis.com/blog/author/ajeet-raina/) and busy building [Redis Developer Hub Site](https://developer.redis.com) 
 - 💬 Ask me about [Docker](https://dockerlabs.collabnix.com), [Kubernetes](https://kubelabs.collabnix.com), [DevOps](https://collabnix.netlify.app/docs/devops/) and [Redis](https://redisplanet.collabnix.com) 
-- 📫 Join my personal Collabnix Slack community of 5600+ DevOps members : Join https://launchpass.com/collabnix
+- 📫 Join my personal [Collabnix Slack community](https://launchpass.com/collabnix) of 5600+ DevOps members 
 - ⚡ I am a maintainer of [Docker Contribute Site](https://contribute.docker.com)
 - 😄 I love blogging: https://www.collabnix.com
 - 🌱 Bagged "Tip of Captain's Hat Award" in Dockercon 2019 San Francisco
+- 🔭 Author at [TestProject Inc](https://blog.testproject.io/author/ajeetrainagmail-com/)
 - ⚡ Community contributions  - [Docker](https://dockerlabs.collabnix.com), [KubeLabs](https://kubelabs.collabnix.com), [Kubetools](https://kubetools.collabnix.com)
 - 👯 Subscribe to my Videos - [YouTube](https://youtube.com/c/Collabnix)
 
