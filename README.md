@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image title](https://rushter.com/counter.svg)
+
 ![My Image](ajeetraina.jpeg)
 
 <!--
