@@ -52,3 +52,11 @@ Here are some ideas to get you started:
 - [Website](https://www.collabnix.com)
 - [Instagram](https://www.instagram.com/ajeetsraina/)
 - [Facebook](https://www.facebook.com/ajeetraina)
+
+### Blogs
+
+
+- [How to build and run a Python app in a container – Docker Python Tutorial](https://collabnix.com/how-to-build-and-run-a-python-app-in-a-container/)
+- [5 Best Redis Tutorials and Free Resources for all Levels](https://collabnix.com/top-5-redis-tutorials-and-resources-for-all-levels/)
+- [Running Automated Tasks with a CronJob over Kubernetes running on Docker Desktop 4.1.1 (Docker)](https://collabnix.com/running-automated-tasks-with-a-cronjob-over-kubernetes-running-on-docker-desktop-4-1-1/)
+
