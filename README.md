@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 ![My Image](ajeetraina.jpeg)
 
 <!--
@@ -34,6 +35,8 @@ Here are some ideas to get you started:
 
 
 ### Major Contributions/Initiatives
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajeetraina&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 - 💬 [Redis Developer Hub](https://developer.redis.com)
 - 😄 [Docker Contribute Site](https://docker.github.io/get-involved)
