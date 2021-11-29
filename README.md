@@ -86,3 +86,6 @@ Here are some ideas to get you started:
 - [Docker & Kubernetes on IoT Device](https://www.youtube.com/watch?v=d-VDbvAkWac&t=120s)
 - [Deep Learning | Traffic | Docker | K3s | NVIDIA Jetson Nano | OpenDatacam](https://www.youtube.com/watch?v=eDVQgRN1FIY)
 - [Quantifying your World with AI & Docker | Ajeet Raina | OSCONF Jaipur 2020 ](https://www.youtube.com/watch?v=1q-Y6WAtBxQ&t=1s)
+
+
+### [Join 6000+ DevOps Engineers today !](https://launchpass.com/collabnix)
