@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### Major Contributions/Initiatives
 
 - 💬 [Redis Developer Hub](https://developer.redis.com)
-- 😄 [Docker Contribute Site](httpS://contribute.docker.com)
+- 😄 [Docker Contribute Site](https://docker.github.io/get-involved)
 - 🌱 [DockerLabs](https://dockerlabs.collabnix.com)
 - 🌱 [KubeLabs](https://kubelabs.collabnix.com)
 - 🔭 [Kubetools](https://kubetools.collabnix.com)
