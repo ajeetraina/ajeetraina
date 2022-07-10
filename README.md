@@ -103,4 +103,4 @@ Here are some ideas to get you started:
 - [Quantifying your World with AI & Docker | Ajeet Raina | OSCONF Jaipur 2020 ](https://www.youtube.com/watch?v=1q-Y6WAtBxQ&t=1s)
 
 
-### [Join 6000+ DevOps Engineers today !](https://launchpass.com/collabnix)
+### [Join 7000+ DevOps Engineers today !](https://launchpass.com/collabnix)
