@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 [I’m a Docker Captain](https://www.docker.com/captains/ajeet-singh-raina)
+- 🤔 I work for [Docker](https://www.docker.com/author/ajeet-singh-raina/) 
 - 🌱 [I’m part of ARM Innovator programme](https://community.arm.com/innovation/b/blog/posts/arm-innovator-spotlight-ajeet-raina)
 - 😄 [I'm a Docker Community Leader](https://www.docker.com/blog/2019-docker-community-awards/)
 - 👯 I lead [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 10,700+ members ...
-- 🤔 I work for [Docker](https://www.docker.com/author/ajeet-singh-raina/) 
 - 💬 Ask me about [Docker](https://dockerlabs.collabnix.com), [Kubernetes](https://kubelabs.collabnix.com), [DevOps](https://collabnix.netlify.app/docs/devops/) and [IoT](https://github.com/collabnix/ioetplanet) 
 - 📫 Join my personal [Collabnix Slack community](https://launchpass.com/collabnix) of 6000+ DevOps members 
 - ⚡ I am a maintainer of [Docker Contribute Site](https://contribute.docker.com)
@@ -38,13 +38,14 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajeetraina&theme=great-gatsby&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-- 💬 [Redis Developer Hub](https://developer.redis.com)
-- 😄 [Docker Contribute Site](https://docker.github.io/get-involved)
+
+- 😄 [Docker Blogging Site](https://docker.com/blog)
 - 🌱 [DockerLabs](https://dockerlabs.collabnix.com)
 - 🌱 [KubeLabs](https://kubelabs.collabnix.com)
 - 🔭 [Kubetools](https://kubetools.collabnix.com)
 - 🤔 [The Pico Project](https://github.com/collabnix/pico)
 - 📫 [OpenUSM](https://github.com/collabnix/openusm)
+- 💬 [Redis Developer Hub](https://developer.redis.com)
 
 
 ### Follow me
@@ -56,15 +57,26 @@ Here are some ideas to get you started:
 - [Instagram](https://www.instagram.com/ajeetsraina/)
 - [Facebook](https://www.facebook.com/ajeetraina)
 
-### Latest Blogs over Collabnix
+### Latest Blogs(Collabnix)
 
 
+- [Getting Started with Docker on Seeed Studio’s reComputer Powered by NVIDIA Jetson](https://collabnix.com/getting-started-with-docker-on-seeed-studios-recomputer-powered-by-nvidia-jetson/)
+- [An Ultimate Curated List of Docker Extensions](https://collabnix.com/an-ultimate-curated-list-of-docker-desktop-extensions/)
+- [Top 50 Essential Docker Developer Tools You Must be Aware Of (Docker](https://collabnix.com/top-50-essential-docker-developer-tools-you-must-be-aware-of/)
 - [How to setup GPS Module with Raspberry Pi and perform Google Map Geo-Location Tracking in a Real-Time](https://collabnix.com/how-to-setup-gps-module-with-raspberry-pi-and-perform-google-map-geo-location-tracking-in-real-time/)
 - [Top 5 Effective Discord Bot For Your Server in 2021](https://collabnix.com/top-5-effective-discord-bot-for-your-server-in-2021/)
 - [How to build and run a Python app in a container – Docker Python Tutorial](https://collabnix.com/how-to-build-and-run-a-python-app-in-a-container/)
 - [What is Kubernetes Scheduler and why do you need it? – KubeLabs Glossary](https://collabnix.com/what-is-kubernetes-scheduler-and-why-do-you-need-it-kubelabs-glossary/)
 - [Running Automated Tasks with a CronJob over Kubernetes running on Docker Desktop 4.1.1](https://collabnix.com/running-automated-tasks-with-a-cronjob-over-kubernetes-running-on-docker-desktop-4-1-1/)
 - [5 Best Redis Tutorials and Free Resources for all Levels](https://collabnix.com/top-5-redis-tutorials-and-resources-for-all-levels/)
+
+
+### Latest Blog(Docker)
+
+- [How to Build and Deploy a URL Shortener Using TypeScript and Nest.js](https://dockr.ly/3P7Ufxc)
+- [9 Tips for Containerizing Your Spring Boot Code](https://dockr.ly/3QR2aR7)
+- [How to Build and Deploy a Django-based URL Shortener App from Scratch](https://dockr.ly/3Rg0Rvi)
+- [Building a Multi-Container .NET App Using Docker Desktop](https://www.docker.com/blog/building-multi-container-net-app-using-docker-desktop/)
 
 
 ### Latest Blogs over Medium
@@ -75,7 +87,7 @@ Here are some ideas to get you started:
 - [Getting Started with Shipa](https://medium.com/@ajeetsraina/getting-started-with-shipa-2fc0fab44179)
 
 
-### Latest Blogs over Redis Developer Site
+### Latest Blogs(Redis Developer Site)
 
 - [Redis Enterprise Observability with Datadog](https://developer.redis.com/explore/datadog)
 - [How to create Grafana Dashboards for Redis Enterprise cluster in 5 Minutes](https://developer.redis.com/explore/redisexplorer)
