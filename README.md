@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 - [Building a Multi-Container .NET App Using Docker Desktop](https://www.docker.com/blog/building-multi-container-net-app-using-docker-desktop/)
 
 
-### Latest Blogs over Medium
+### Medium
 
 - [Popeye — A Kubernetes Cluster Sanitizer](https://medium.com/@ajeetsraina/popeye-a-kubernetes-cluster-sanitizer-1914723eb21d)
 - [Hack into the DJI Robomaster S1 Battle Bot in 5 Minutes](https://medium.com/@ajeetsraina/hack-into-the-dji-robomaster-s1-battle-bot-in-5-minutes-collabnix-708da1ae262a)
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 - [Getting Started with Shipa](https://medium.com/@ajeetsraina/getting-started-with-shipa-2fc0fab44179)
 
 
-### Latest Blogs(Redis Developer Site)
+### Blogs(Redis Developer Site)
 
 - [Redis Enterprise Observability with Datadog](https://developer.redis.com/explore/datadog)
 - [How to create Grafana Dashboards for Redis Enterprise cluster in 5 Minutes](https://developer.redis.com/explore/redisexplorer)
@@ -98,12 +98,20 @@ Here are some ideas to get you started:
 - [Deploy a NodeJS app on Heroku using Redis](https://developer.redis.com/create/heroku/herokunodejs)
 - [Create Redis database on Docker](https://developer.redis.com/create/docker/)
 
-### Latest Videos over YouTube
+### YouTube
 
 - [How to Build an IoT Sensor Analytics using Docker, Redis and Grafana](https://www.youtube.com/watch?v=EGgFhpxx_Jk&t=105s)
 - [Docker & Kubernetes on IoT Device](https://www.youtube.com/watch?v=d-VDbvAkWac&t=120s)
 - [Deep Learning | Traffic | Docker | K3s | NVIDIA Jetson Nano | OpenDatacam](https://www.youtube.com/watch?v=eDVQgRN1FIY)
 - [Quantifying your World with AI & Docker | Ajeet Raina | OSCONF Jaipur 2020 ](https://www.youtube.com/watch?v=1q-Y6WAtBxQ&t=1s)
+
+### Events
+
+
+[July 30 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)<br>
+[June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
+[March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
+
 
 
 ### [Join 7000+ DevOps Engineers today !](https://launchpass.com/collabnix)
