@@ -73,6 +73,9 @@ Here are some ideas to get you started:
 
 ### Latest Blog(Docker)
 
+- [Build and Deploy a Retail Store Items Detection System Using No-Code AI Vision at the Edge](https://www.docker.com/blog/build-retail-store-items-detection-system-no-code-ai/)
+- [Containerizing a Legendary PetClinic App Built with Spring Boot](https://www.docker.com/blog/containerizing-a-legendary-petclinic-app-built-with-spring-boot/)
+- [How to Build and Deploy a Task Management Application Using Go](https://www.docker.com/blog/how-to-build-and-deploy-a-task-management-application-using-go/)
 - [How to Build and Deploy a URL Shortener Using TypeScript and Nest.js](https://dockr.ly/3P7Ufxc)
 - [9 Tips for Containerizing Your Spring Boot Code](https://dockr.ly/3QR2aR7)
 - [How to Build and Deploy a Django-based URL Shortener App from Scratch](https://dockr.ly/3Rg0Rvi)
