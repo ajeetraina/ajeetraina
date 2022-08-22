@@ -111,6 +111,18 @@ Here are some ideas to get you started:
 [July 30 - Meetup #57 - Docker Developer Meetup at Harness.io](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/30July-DockerDeveloper-Harness)<br>
 [June 11 - Meetup #56 - Docker Developer Meetup at Microsoft Reactor](https://www.meetup.com/Docker-Bangalore/events/285342797/) - [Slides](https://github.com/collabnix/dockerbangalore/tree/master/slides/11thJune-DockerDeveloper-MicrosoftReactor)<br>
 [March 26th - Meetup #54 -  Docker 9th Birthday Celebration with JFrog Community ](https://www.meetup.com/Docker-Bangalore/events/284247414/)<br>
+[June 2021 - Meetup #53 - A Joint Meetup with JFrog & Collabnix Community](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-jfrog-collabnix-community/) - [Slides](./slides/19th-June-2021-53rd-DockerMeetup-JFrog/)<br>
+[April 2021 - Meetup #52 - A Joint Meetup with Open Source Community Conference (OSCONF) 2021](https://events.docker.com/events/details/docker-bangalore-presents-a-joint-meetup-with-open-source-community-conference-osconf-2021-online-virtual-event/)<br>
+[Jan 2021 - Meetup #51: Joint Meetup with Docker Malaysia & Docker Pune Group | Docker, DevOps and IoT ](https://events.docker.com/events/details/docker-bangalore-presents-meetup-51-joint-meetup-with-docker-malaysia-docker-pune-group-docker-devops-and-iot/)<br>
+[18-Jan-2020 - #50 Kickstart Your 2020 Container Journey with Docker & Kubernetes + Kubernetes101 Workshop - SAP Labs](./slides/18th-Jan-2020-50th-Dockermeetup-SAPLabs)<br>
+[23-Nov-2019 - #49 Docker, Kubernetes & DevOps Tools + Docker Intermediate Workshop](./slides/23rd-Nov-2019-Docker-k8s-monitoring-Dell-Meetup)<br>
+[21-September 2019 - #48 Docker, K8s, ML + Docker101 Workshop - Amazon](https://events.docker.com/events/details/docker-bangalore-presents-docker-k8s-iot-mldl-docker101-hands-on-workshop-for-beginners/#/)<br>
+[7-Septemeber-2019 - #46 Docker Bangalore Joint Meetup with Cloud Native Group of Bangalore](https://events.docker.com/events/details/docker-bangalore-presents-docker-bangalore-joint-meetup-with-cloud-native-group-of-bangalore/#/)<br>
+[03rd August 2019 - #45 Docker, Kubernetes & IoT - WalmartLabs](./slides/3-Aug-2019-Docker_Kubernete_IoT_Machine-Learning/readme.md)<br>
+[15th-June-2019 - #44 Dockercon 19 Recap & Announcements](./slides/15th-June-2019-Dockercon19-Recap/README.md)<br>
+[25-April-2019 - #43 Docker Joint Meetup with OpenFaas @Microsoft Developer Group](./slides/2019-04-25-Joint-Meetup-OpenFaas-Microsoft-Developer-Group/README.md)<br>
+[30-March-2019 - #42 Docker 6th Birthday Celeberation Event](./slides/2019-03-30-Docker-6th-Birthday-Show-n-Tell/README.md)<br>
+[19-January-2019 - #41 Joint Meetup with Kubernetes & OpenShift + CloudNativeCon](./slides/2018-01-19-JointMeetup-Dockercon-Kubecon-Updates/README.md)
 
 
 
