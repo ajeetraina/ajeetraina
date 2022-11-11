@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🤔 I work for [Docker](https://www.docker.com/author/ajeet-singh-raina/) 
 - 🌱 [I’m part of ARM Innovator programme](https://community.arm.com/innovation/b/blog/posts/arm-innovator-spotlight-ajeet-raina)
 - 😄 [I'm a Docker Community Leader](https://www.docker.com/blog/2019-docker-community-awards/)
-- 👯 I lead [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 10,700+ members ...
+- 👯 I lead [Docker Bangalore Community](https://meetup.com/Docker-Bangalore) of 12,500+ members ...
 - 💬 Ask me about [Docker](https://dockerlabs.collabnix.com), [Kubernetes](https://kubelabs.collabnix.com), [DevOps](https://collabnix.netlify.app/docs/devops/) and [IoT](https://github.com/collabnix/ioetplanet) 
 - 📫 Join my personal [Collabnix Slack community](https://launchpass.com/collabnix) of 6000+ DevOps members 
 - ⚡ I am a maintainer of [Docker Contribute Site](https://contribute.docker.com)
@@ -39,13 +39,16 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajeetraina&theme=great-gatsby&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 
-- 😄 [Docker Blogging Site](https://docker.com/blog)
+- 😄 [Docker Developer Community Site](https://dev.to/docker)
+- 😄 [Author](https://docker.com/blog)
 - 🌱 [DockerLabs](https://dockerlabs.collabnix.com)
 - 🌱 [KubeLabs](https://kubelabs.collabnix.com)
 - 🔭 [Kubetools](https://kubetools.collabnix.com)
 - 🤔 [The Pico Project](https://github.com/collabnix/pico)
 - 📫 [OpenUSM](https://github.com/collabnix/openusm)
+- 📫 [Docker Community Extensions](https://github.com/collabnix/docker-community-extensions)
 - 💬 [Redis Developer Hub](https://developer.redis.com)
+- 🌱 [Docker + Wasm Resources](https://github.com/collabnix/wasm-docker-better-together)
 
 
 ### Follow me
@@ -60,6 +63,11 @@ Here are some ideas to get you started:
 ### Latest Blogs(Collabnix)
 
 
+
+- [Docker and Wasm Containers – Better Together](https://collabnix.com/docker-and-wasm-containers-better-together/)
+- [Docker Dev Environments Explained in 5 Minutes](https://collabnix.com/docker-dev-environment-explained-in-5-minutes/)
+- [Running MinIO using Docker Desktop in 5 Minutes](https://collabnix.com/running-minio-using-docker-desktop-in-5-minutes/)
+- [Docker Desktop 4.13.0 introduces a New Dev Environment CLI for the first time](https://collabnix.com/docker-desktop-4-13-0-introduces-a-new-dev-environment-cli-for-the-first-time/)
 - [Getting Started with Docker on Seeed Studio’s reComputer Powered by NVIDIA Jetson](https://collabnix.com/getting-started-with-docker-on-seeed-studios-recomputer-powered-by-nvidia-jetson/)
 - [An Ultimate Curated List of Docker Extensions](https://collabnix.com/an-ultimate-curated-list-of-docker-desktop-extensions/)
 - [Top 50 Essential Docker Developer Tools You Must be Aware Of (Docker](https://collabnix.com/top-50-essential-docker-developer-tools-you-must-be-aware-of/)
