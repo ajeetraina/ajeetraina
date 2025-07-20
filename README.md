@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 ### Major Contributions/Initiatives
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajeetraina&theme=great-gatsby&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
 
 - 😄 [Docker Developer Community Site](https://dev.to/docker)
