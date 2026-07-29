@@ -79,6 +79,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog(Docker)
 
+<!-- DOCKER-POST-LIST:START -->
 - [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/)
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/)
 - [Coding Agent Horror Stories: The rm -rf ~/ Incident](https://www.docker.com/blog/coding-agent-horror-stories-the-rm-rf-incident/)
@@ -92,6 +93,7 @@ Here are some ideas to get you started:
 - [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/)
 - [MCP Horror Stories: The WhatsApp Data Exfiltration Attack](https://www.docker.com/blog/mcp-horror-stories-whatsapp-data-exfiltration-issue/)
 - [How to add MCP Servers to Claude Desktop with Docker MCP Toolkit](https://www.docker.com/blog/connect-mcp-servers-to-claude-desktop-with-mcp-toolkit/)
+<!-- DOCKER-POST-LIST:END -->
 
 
 ### Medium
