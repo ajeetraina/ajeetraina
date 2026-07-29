@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 
 ### Latest Blogs (ajeetraina.com)
 
-
+<!-- BLOG-POST-LIST:START -->
 - [What's New in Docker Sandboxes (sbx) 0.35.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-sbx-0-35-0/)
 - [Inside Docker Model Runner: one API, three inference engines](https://www.ajeetraina.com/inside-docker-model-runner-one-api-three-inference-engines/)
 - [Run Visual Studio Code and Claude Code Inside a Docker Sandbox microVM](https://www.ajeetraina.com/run-visual-studio-code-and-claude-code-inside-a-docker-sandbox-microvm/)
@@ -75,6 +75,7 @@ Here are some ideas to get you started:
 - [Which AI Coding Tools Are Developers Actually Using at Work in 2026?](https://www.ajeetraina.com/which-ai-coding-tools-are-developers-actually-using-at-work-in-2026/)
 - [Running Open-Source Models and Docker Sandboxes: Agent in a microVM, Model on the Host](https://www.ajeetraina.com/running-open-source-models-inside-docker-sandboxes-agent-in-a-microvm-model-on-the-host-zero-cloud-dependency/)
 - [How Autonomous AI Agents Become Secure by Design With Docker Sandboxes](https://www.ajeetraina.com/how-autonomous-ai-agents-become-secure-by-design-with-docker-sandboxes/)
+<!-- BLOG-POST-LIST:END -->
 
 
 ### Latest Blog(Docker)
