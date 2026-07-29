@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
-- [What's New in Docker Sandboxes (sbx) 0.35.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-sbx-0-35-0/)
+- [What&#39;s New in Docker Sandboxes &lpar;sbx&rpar; 0.35.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-sbx-0-35-0/)
 - [Inside Docker Model Runner: one API, three inference engines](https://www.ajeetraina.com/inside-docker-model-runner-one-api-three-inference-engines/)
 - [Run Visual Studio Code and Claude Code Inside a Docker Sandbox microVM](https://www.ajeetraina.com/run-visual-studio-code-and-claude-code-inside-a-docker-sandbox-microvm/)
 - [SSH Straight Into Your Agent Sandboxes: A Hands-On Look at `sbx ssh`](https://www.ajeetraina.com/ssh-straight-into-your-agent-sandboxes-a-hands-on-look-at-sbx-ssh/)
@@ -71,10 +71,9 @@ Here are some ideas to get you started:
 - [Claude Code in a Docker Sandbox: How Kits Make It Shareable and Secure](https://www.ajeetraina.com/claude-code-in-a-docker-sandbox-how-kits-make-it-shareable-and-secure/)
 - [10 Things You Must Know About Docker Sandboxes](https://www.ajeetraina.com/10-things-you-must-know-about-docker-sandboxes/)
 - [Running Docker Agent Inside a Sandbox](https://www.ajeetraina.com/running-docker-agent-inside-a-sandbox/)
-- [Announcing Operational AI with Docker Book](https://www.ajeetraina.com/announcing-operational-ai-with-docker-book-by-ajeet-singh-raina-harsh-manvar/)
+- [Announcing Operational AI with Docker Book by Ajeet Singh Raina &amp; Harsh Manvar](https://www.ajeetraina.com/announcing-operational-ai-with-docker-book-by-ajeet-singh-raina-harsh-manvar/)
+- [310 People, 7 Hours, One Big Hands-On Day with NVIDIA Nemotron 3 Super in Bengaluru](https://www.ajeetraina.com/310-people-7-hours-one-big-hands-on-day-with-nvidia-nemotron-3-super-in-bengaluru/)
 - [Which AI Coding Tools Are Developers Actually Using at Work in 2026?](https://www.ajeetraina.com/which-ai-coding-tools-are-developers-actually-using-at-work-in-2026/)
-- [Running Open-Source Models and Docker Sandboxes: Agent in a microVM, Model on the Host](https://www.ajeetraina.com/running-open-source-models-inside-docker-sandboxes-agent-in-a-microvm-model-on-the-host-zero-cloud-dependency/)
-- [How Autonomous AI Agents Become Secure by Design With Docker Sandboxes](https://www.ajeetraina.com/how-autonomous-ai-agents-become-secure-by-design-with-docker-sandboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 
