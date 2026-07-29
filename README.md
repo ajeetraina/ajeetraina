@@ -34,12 +34,6 @@ Here are some ideas to get you started:
 - 👯 Subscribe to my Videos - [YouTube](https://youtube.com/c/Collabnix)
 
 
-### Major Contributions/Initiatives
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-
-
 - 😄 [Docker Developer Community Site](https://dev.to/docker)
 - 😄 [Author](https://docker.com/blog)
 - 🌱 [DockerLabs](https://dockerlabs.collabnix.com)
