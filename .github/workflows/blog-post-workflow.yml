@@ -22,4 +22,5 @@ jobs:
         with:
           feed_list: "https://www.ajeetraina.com/rss/"
           max_post_count: 16
+          disable_html_encoding: true
           commit_message: "Update latest ajeetraina.com blog posts"
