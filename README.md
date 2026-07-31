@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices for Sandboxing Agents and Kits](https://www.ajeetraina.com/best-practices-for-sandboxing-agents-and-kits/)
 - [What's New in Docker Sandboxes (sbx) 0.35.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-sbx-0-35-0/)
 - [Inside Docker Model Runner: one API, three inference engines](https://www.ajeetraina.com/inside-docker-model-runner-one-api-three-inference-engines/)
 - [Run Visual Studio Code and Claude Code Inside a Docker Sandbox microVM](https://www.ajeetraina.com/run-visual-studio-code-and-claude-code-inside-a-docker-sandbox-microvm/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Running Docker Agent Inside a Sandbox](https://www.ajeetraina.com/running-docker-agent-inside-a-sandbox/)
 - [Announcing Operational AI with Docker Book by Ajeet Singh Raina & Harsh Manvar](https://www.ajeetraina.com/announcing-operational-ai-with-docker-book-by-ajeet-singh-raina-harsh-manvar/)
 - [310 People, 7 Hours, One Big Hands-On Day with NVIDIA Nemotron 3 Super in Bengaluru](https://www.ajeetraina.com/310-people-7-hours-one-big-hands-on-day-with-nvidia-nemotron-3-super-in-bengaluru/)
-- [Which AI Coding Tools Are Developers Actually Using at Work in 2026?](https://www.ajeetraina.com/which-ai-coding-tools-are-developers-actually-using-at-work-in-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 
