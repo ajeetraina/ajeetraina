@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Whaleness Day: A Small Pause That Makes a Big Difference](https://www.ajeetraina.com/docker-whaleness-day-a-small-pause-that-makes-a-big-difference/)
 - [Deep dive: agent skills in Docker Sandboxes](https://www.ajeetraina.com/deep-dive-agent-skills-in-docker-sandboxes/)
 - [Best Practices for Sandboxing Agents and Kits](https://www.ajeetraina.com/best-practices-for-sandboxing-agents-and-kits/)
 - [What's New in Docker Sandboxes (sbx) 0.35.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-sbx-0-35-0/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Claude Code in a Docker Sandbox: How Kits Make It Shareable and Secure](https://www.ajeetraina.com/claude-code-in-a-docker-sandbox-how-kits-make-it-shareable-and-secure/)
 - [10 Things You Must Know About Docker Sandboxes](https://www.ajeetraina.com/10-things-you-must-know-about-docker-sandboxes/)
 - [Running Docker Agent Inside a Sandbox](https://www.ajeetraina.com/running-docker-agent-inside-a-sandbox/)
-- [Announcing Operational AI with Docker Book by Ajeet Singh Raina & Harsh Manvar](https://www.ajeetraina.com/announcing-operational-ai-with-docker-book-by-ajeet-singh-raina-harsh-manvar/)
 <!-- BLOG-POST-LIST:END -->
 
 
