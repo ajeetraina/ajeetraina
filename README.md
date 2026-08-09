@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Claude Code Yolo Mode: What You Need to Know](https://www.ajeetraina.com/claude-code-yolo-mode-what-you-need-to-know/)
 - [Docker Whaleness Day: A Small Pause That Makes a Big Difference](https://www.ajeetraina.com/docker-whaleness-day-a-small-pause-that-makes-a-big-difference/)
 - [Deep dive: agent skills in Docker Sandboxes](https://www.ajeetraina.com/deep-dive-agent-skills-in-docker-sandboxes/)
 - [Best Practices for Sandboxing Agents and Kits](https://www.ajeetraina.com/best-practices-for-sandboxing-agents-and-kits/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Getting Started with the Pi Agent Kit on Docker Sandboxes](https://www.ajeetraina.com/getting-started-with-the-pi-agent-kit-on-docker-sandboxes/)
 - [Claude Code in a Docker Sandbox: How Kits Make It Shareable and Secure](https://www.ajeetraina.com/claude-code-in-a-docker-sandbox-how-kits-make-it-shareable-and-secure/)
 - [10 Things You Must Know About Docker Sandboxes](https://www.ajeetraina.com/10-things-you-must-know-about-docker-sandboxes/)
-- [Running Docker Agent Inside a Sandbox](https://www.ajeetraina.com/running-docker-agent-inside-a-sandbox/)
 <!-- BLOG-POST-LIST:END -->
 
 
