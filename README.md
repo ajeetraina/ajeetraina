@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-BOM Explained: Why Your SBOM Stops Where Your AI System Starts](https://www.ajeetraina.com/ai-bom-explained-why-your-sbom-stops-where-your-ai-system-starts/)
 - [Claude Code Remote Control Now Works Inside Docker Sandboxes](https://www.ajeetraina.com/claude-code-remote-control-now-works-inside-docker-sandboxes/)
 - [What's new in Docker Sandboxes 0.38.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-0-38-0/)
 - [Claude Code Yolo Mode: What You Need to Know](https://www.ajeetraina.com/claude-code-yolo-mode-what-you-need-to-know/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Running Coding Agents in a Secure MicroVM on Windows with sbx](https://www.ajeetraina.com/running-coding-agents-in-a-secure-microvm-on-windows-with-sbx/)
 - [1Password + Docker Sandboxes: Keeping Secrets Out of the Box](https://www.ajeetraina.com/securing-docker-sandboxes-a-quick-look-at-1password-credential-injection/)
 - [How Docker Is Solving the AI Governance Problem](https://www.ajeetraina.com/how-docker-is-solving-the-ai-governance-problem/)
-- [Getting Started with the Pi Agent Kit on Docker Sandboxes](https://www.ajeetraina.com/getting-started-with-the-pi-agent-kit-on-docker-sandboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 
