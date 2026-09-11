@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Is Not Just a Container Company Anymore](https://www.ajeetraina.com/docker-is-not-just-a-container-company-anymore/)
 - [AI-BOM Explained: Why Your SBOM Stops Where Your AI System Starts](https://www.ajeetraina.com/ai-bom-explained-why-your-sbom-stops-where-your-ai-system-starts/)
 - [Claude Code Remote Control Now Works Inside Docker Sandboxes](https://www.ajeetraina.com/claude-code-remote-control-now-works-inside-docker-sandboxes/)
 - [What's new in Docker Sandboxes 0.38.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-0-38-0/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Collabnix AI Weekly - June 2026 Edition](https://www.ajeetraina.com/collabnix-ai-weekly-june-2026-edition/)
 - [Running Coding Agents in a Secure MicroVM on Windows with sbx](https://www.ajeetraina.com/running-coding-agents-in-a-secure-microvm-on-windows-with-sbx/)
 - [1Password + Docker Sandboxes: Keeping Secrets Out of the Box](https://www.ajeetraina.com/securing-docker-sandboxes-a-quick-look-at-1password-credential-injection/)
-- [How Docker Is Solving the AI Governance Problem](https://www.ajeetraina.com/how-docker-is-solving-the-ai-governance-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 
