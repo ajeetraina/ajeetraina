@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Docker Cloud Sandboxes](https://www.ajeetraina.com/getting-started-with-docker-cloud-sandboxes/)
+- [Running DeepAgents in a Docker Sandbox](https://www.ajeetraina.com/running-deepagents-in-a-docker-sandbox/)
 - [Docker Is Not Just a Container Company Anymore](https://www.ajeetraina.com/docker-is-not-just-a-container-company-anymore/)
 - [AI-BOM Explained: Why Your SBOM Stops Where Your AI System Starts](https://www.ajeetraina.com/ai-bom-explained-why-your-sbom-stops-where-your-ai-system-starts/)
 - [Claude Code Remote Control Now Works Inside Docker Sandboxes](https://www.ajeetraina.com/claude-code-remote-control-now-works-inside-docker-sandboxes/)
@@ -72,8 +74,6 @@ Here are some ideas to get you started:
 - [Run Visual Studio Code and Claude Code Inside a Docker Sandbox microVM](https://www.ajeetraina.com/run-visual-studio-code-and-claude-code-inside-a-docker-sandbox-microvm/)
 - [SSH Straight Into Your Agent Sandboxes: A Hands-On Look at `sbx ssh`](https://www.ajeetraina.com/ssh-straight-into-your-agent-sandboxes-a-hands-on-look-at-sbx-ssh/)
 - [Collabnix AI Weekly - June 2026 Edition](https://www.ajeetraina.com/collabnix-ai-weekly-june-2026-edition/)
-- [Running Coding Agents in a Secure MicroVM on Windows with sbx](https://www.ajeetraina.com/running-coding-agents-in-a-secure-microvm-on-windows-with-sbx/)
-- [1Password + Docker Sandboxes: Keeping Secrets Out of the Box](https://www.ajeetraina.com/securing-docker-sandboxes-a-quick-look-at-1password-credential-injection/)
 <!-- BLOG-POST-LIST:END -->
 
 
