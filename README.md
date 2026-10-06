@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker does that?! Five Docker capabilities in one morning - WeAreDevelopers NA 2026](https://www.ajeetraina.com/docker-does-that-five-docker-capabilities-in-one-morning-wearedevelopers-na-2026/)
 - [Getting Started with Docker Cloud Sandboxes](https://www.ajeetraina.com/getting-started-with-docker-cloud-sandboxes/)
 - [Running DeepAgents in a Docker Sandbox](https://www.ajeetraina.com/running-deepagents-in-a-docker-sandbox/)
 - [Docker Is Not Just a Container Company Anymore](https://www.ajeetraina.com/docker-is-not-just-a-container-company-anymore/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Inside Docker Model Runner: one API, three inference engines](https://www.ajeetraina.com/inside-docker-model-runner-one-api-three-inference-engines/)
 - [Run Visual Studio Code and Claude Code Inside a Docker Sandbox microVM](https://www.ajeetraina.com/run-visual-studio-code-and-claude-code-inside-a-docker-sandbox-microvm/)
 - [SSH Straight Into Your Agent Sandboxes: A Hands-On Look at `sbx ssh`](https://www.ajeetraina.com/ssh-straight-into-your-agent-sandboxes-a-hands-on-look-at-sbx-ssh/)
-- [Collabnix AI Weekly - June 2026 Edition](https://www.ajeetraina.com/collabnix-ai-weekly-june-2026-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 
