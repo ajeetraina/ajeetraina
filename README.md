@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Build an Autonomous A/B Testing Agent on Docker Cloud Sandboxes](https://www.ajeetraina.com/build-an-autonomous-a-b-testing-agent-on-docker-cloud-sandboxes/)
+- [Docker Tops the Stack Overflow 2026 Developer Survey](https://www.ajeetraina.com/docker-tops-the-stack-overflow-2026-developer-survey/)
 - [AIGov Meetup Singapore: Agentic AI Governance](https://www.ajeetraina.com/aigov-meetup-singapore-agentic-ai-governance/)
 - [Docker does that?! Five Docker capabilities in one morning - WeAreDevelopers NA 2026](https://www.ajeetraina.com/docker-does-that-five-docker-capabilities-in-one-morning-wearedevelopers-na-2026/)
 - [Getting Started with Docker Cloud Sandboxes](https://www.ajeetraina.com/getting-started-with-docker-cloud-sandboxes/)
@@ -72,8 +74,6 @@ Here are some ideas to get you started:
 - [Deep dive: agent skills in Docker Sandboxes](https://www.ajeetraina.com/deep-dive-agent-skills-in-docker-sandboxes/)
 - [Best Practices for Sandboxing Agents and Kits](https://www.ajeetraina.com/best-practices-for-sandboxing-agents-and-kits/)
 - [What's New in Docker Sandboxes (sbx) 0.35.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-sbx-0-35-0/)
-- [Inside Docker Model Runner: one API, three inference engines](https://www.ajeetraina.com/inside-docker-model-runner-one-api-three-inference-engines/)
-- [Run Visual Studio Code and Claude Code Inside a Docker Sandbox microVM](https://www.ajeetraina.com/run-visual-studio-code-and-claude-code-inside-a-docker-sandbox-microvm/)
 <!-- BLOG-POST-LIST:END -->
 
 
