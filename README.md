@@ -80,6 +80,7 @@ Here are some ideas to get you started:
 ### Latest Blog(Docker)
 
 <!-- DOCKER-POST-LIST:START -->
+- [Coding Agent Horror Stories: The CVE That Did Not Exist](https://www.docker.com/blog/coding-agent-horror-stories-the-cve-that-did-not-exist/)
 - [Coding Agent Horror Stories: The Command You Already Approved](https://www.docker.com/blog/coding-agent-horror-stories-the-command-you-already-approved/)
 - [Coding Agent Horror Stories: The 29 Million Secret Problem](https://www.docker.com/blog/coding-agent-horror-stories-the-29-million-secret-problem/)
 - [Coding Agent Horror Stories: The Agent That Deleted Production](https://www.docker.com/blog/coding-agent-horror-stories-the-agent-that-deleted-production/)
@@ -92,7 +93,6 @@ Here are some ideas to get you started:
 - [How to Automate Arm Migration with Docker MCP Toolkit, VS Code, and GitHub Copilot](https://www.docker.com/blog/automate-arm-migration-docker-mcp-copilot/)
 - [How to Add MCP Servers to ChatGPT with Docker MCP Toolkit](https://www.docker.com/blog/add-mcp-server-to-chatgpt/)
 - [From Compose to Kubernetes to Cloud: Designing and Operating Infrastructure with Kanvas](https://www.docker.com/blog/compose-to-kubernetes-to-cloud-kanvas/)
-- [MCP Horror Stories: The WhatsApp Data Exfiltration Attack](https://www.docker.com/blog/mcp-horror-stories-whatsapp-data-exfiltration-issue/)
 <!-- DOCKER-POST-LIST:END -->
 
 
