@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Container Days Singapore Trip and Highlights](https://www.ajeetraina.com/container-days-singapore-trip-and-highlights/)
 - [How I Built My First sbx Kit v3 From Scratch](https://www.ajeetraina.com/how-i-built-my-first-sbx-kit-v3-from-scratch/)
 - [Build an Autonomous A/B Testing Agent on Docker Cloud Sandboxes](https://www.ajeetraina.com/build-an-autonomous-a-b-testing-agent-on-docker-cloud-sandboxes/)
 - [Docker Tops the Stack Overflow 2026 Developer Survey](https://www.ajeetraina.com/docker-tops-the-stack-overflow-2026-developer-survey/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Claude Code Yolo Mode: What You Need to Know](https://www.ajeetraina.com/claude-code-yolo-mode-what-you-need-to-know/)
 - [Docker Whaleness Day: A Small Pause That Makes a Big Difference](https://www.ajeetraina.com/docker-whaleness-day-a-small-pause-that-makes-a-big-difference/)
 - [Deep dive: agent skills in Docker Sandboxes](https://www.ajeetraina.com/deep-dive-agent-skills-in-docker-sandboxes/)
-- [Best Practices for Sandboxing Agents and Kits](https://www.ajeetraina.com/best-practices-for-sandboxing-agents-and-kits/)
 <!-- BLOG-POST-LIST:END -->
 
 
