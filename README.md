@@ -104,14 +104,6 @@ Here are some ideas to get you started:
 - [Getting Started with Shipa](https://medium.com/@ajeetsraina/getting-started-with-shipa-2fc0fab44179)
 
 
-### Blogs(Redis Developer Site)
-
-- [Redis Enterprise Observability with Datadog](https://developer.redis.com/explore/datadog)
-- [How to create Grafana Dashboards for Redis Enterprise cluster in 5 Minutes](https://developer.redis.com/explore/redisexplorer)
-- [Utilize Elasticache Auto Discovery For Redis with RedisInsight](https://developer.redis.com/explore/redisinsight/autodiscover)
-- [Deploy a NodeJS app on Heroku using Redis](https://developer.redis.com/create/heroku/herokunodejs)
-- [Create Redis database on Docker](https://developer.redis.com/create/docker/)
-
 ### YouTube
 
 - [How to Build an IoT Sensor Analytics using Docker, Redis and Grafana](https://www.youtube.com/watch?v=EGgFhpxx_Jk&t=105s)
