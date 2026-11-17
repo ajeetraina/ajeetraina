@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Where Is the Human in the Loop? A Map of Approval Points Across Docker's AI Tools](https://www.ajeetraina.com/where-is-the-human-in-the-loop-a-map-of-approval-points-across-dockers-ai-tools/)
 - [What's New in Docker Sandbox v0.53.0?](https://www.ajeetraina.com/whats-new-in-docker-sandbox-v0-53-0/)
 - [How Secrets Work in Docker Sandboxes: Local vs Cloud](https://www.ajeetraina.com/how-secrets-work-in-docker-sandboxes-local-vs-cloud/)
 - [Container Days Singapore Trip and Highlights](https://www.ajeetraina.com/container-days-singapore-trip-and-highlights/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [AI-BOM Explained: Why Your SBOM Stops Where Your AI System Starts](https://www.ajeetraina.com/ai-bom-explained-why-your-sbom-stops-where-your-ai-system-starts/)
 - [Claude Code Remote Control Now Works Inside Docker Sandboxes](https://www.ajeetraina.com/claude-code-remote-control-now-works-inside-docker-sandboxes/)
 - [What's new in Docker Sandboxes 0.38.0](https://www.ajeetraina.com/whats-new-in-docker-sandboxes-0-38-0/)
-- [Claude Code Yolo Mode: What You Need to Know](https://www.ajeetraina.com/claude-code-yolo-mode-what-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 
