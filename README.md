@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Can Docker Sandboxes Run on NVIDIA Arm? I Tried It on a GH200 with NVIDIA Brev](https://www.ajeetraina.com/can-docker-sandboxes-run-on-nvidia-arm-i-tried-it-on-a-gh200-with-nvidia-brev/)
 - [Why not run n8n itself inside a Docker Sandbox?](https://www.ajeetraina.com/why-not-run-n8n-itself-inside-a-docker-sandbox/)
 - [Where Is the Human in the Loop? A Map of Approval Points Across Docker's AI Tools](https://www.ajeetraina.com/where-is-the-human-in-the-loop-a-map-of-approval-points-across-dockers-ai-tools/)
 - [What's New in Docker Sandbox v0.53.0?](https://www.ajeetraina.com/whats-new-in-docker-sandbox-v0-53-0/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Running DeepAgents in a Docker Sandbox](https://www.ajeetraina.com/running-deepagents-in-a-docker-sandbox/)
 - [Docker Is Not Just a Container Company Anymore](https://www.ajeetraina.com/docker-is-not-just-a-container-company-anymore/)
 - [AI-BOM Explained: Why Your SBOM Stops Where Your AI System Starts](https://www.ajeetraina.com/ai-bom-explained-why-your-sbom-stops-where-your-ai-system-starts/)
-- [Claude Code Remote Control Now Works Inside Docker Sandboxes](https://www.ajeetraina.com/claude-code-remote-control-now-works-inside-docker-sandboxes/)
 <!-- BLOG-POST-LIST:END -->
 
 
