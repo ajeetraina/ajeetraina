@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 ### Latest Blogs (ajeetraina.com)
 
 <!-- BLOG-POST-LIST:START -->
+- [Isn't a Prompt Enough? Why We Need Docker Sandboxes](https://www.ajeetraina.com/isnt-a-prompt-enough-why-we-need-docker-sandboxes/)
 - [Can I run Docker Sandboxes on Raspberry Pi 5?](https://www.ajeetraina.com/running-docker-sandboxes-on-raspberry-pi-5/)
 - [Can Docker Sandboxes Run on NVIDIA Arm? I Tried It on a GH200 with NVIDIA Brev](https://www.ajeetraina.com/can-docker-sandboxes-run-on-nvidia-arm-i-tried-it-on-a-gh200-with-nvidia-brev/)
 - [Why not run n8n itself inside a Docker Sandbox?](https://www.ajeetraina.com/why-not-run-n8n-itself-inside-a-docker-sandbox/)
@@ -73,7 +74,6 @@ Here are some ideas to get you started:
 - [Docker does that?! Five Docker capabilities in one morning - WeAreDevelopers NA 2026](https://www.ajeetraina.com/docker-does-that-five-docker-capabilities-in-one-morning-wearedevelopers-na-2026/)
 - [Getting Started with Docker Cloud Sandboxes](https://www.ajeetraina.com/getting-started-with-docker-cloud-sandboxes/)
 - [Running DeepAgents in a Docker Sandbox](https://www.ajeetraina.com/running-deepagents-in-a-docker-sandbox/)
-- [Docker Is Not Just a Container Company Anymore](https://www.ajeetraina.com/docker-is-not-just-a-container-company-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 
